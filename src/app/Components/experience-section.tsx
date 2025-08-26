@@ -74,7 +74,7 @@ const technicalSkills = [
   { name: "CSS", level: "Advanced" },
   { name: "TypeScript", level: "Intermediate" },
   { name: "Python", level: "Intermediate" },
-  { name: "Agentic AI", level: "Beginner" },
+  { name: "Agentic AI", level: "Intermediate" },
   { name: "NextJs", level: "Advanced" },
   { name: "Accounting", level: "Intermediate" },
   { name: "Excel", level: "Intermediate" },

@@ -12,7 +12,7 @@ export default function Footer() {
     {
       Icon: Twitter,
       delay: "200ms",
-      href: "https://x.com/Soniya_Tech_Hub", // Replace with your X/Twitter username
+      href: "#", // Replace with your X/Twitter username
       label: "X (Twitter)",
     },
     {
