@@ -11,8 +11,8 @@ export function SplineSceneBasic() {
 
       <div className="flex flex-col lg:flex-row h-full">
         {/* Left content */}
-        <div className="flex flex-col justify-center items-start p-4 sm:p-6 lg:p-8 lg:flex-1">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl sm:mt-8 font-bold text-transparent bg-clip-text bg-gradient-to-b from-pink-300 to-purple-500 p-2">
+        <div className="flex flex-col justify-center items-start p-4 sm:p-6 lg:p-8 lg:flex-1 pt-16 sm:pt-20 md:pt-24 lg:pt-4">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-b from-pink-300 to-purple-500 p-2">
             Soniya Dawood
           </h1>
           <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-satisfy text-neutral-300 mt-2 lg:mt-4">
