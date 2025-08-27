@@ -3,7 +3,7 @@ export default function DownloadButton() {
     <div>
       {/* Download CV directly without opening new tab */}
       <a
-        href="/Resume.pdf" // apni CV ka actual file name yahan likhein
+        href="/Resume-S.pdf" // apni CV ka actual file name yahan likhein
         download // <-- This triggers the download
         className="group relative inline-flex overflow-hidden rounded-full p-[2px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
       >

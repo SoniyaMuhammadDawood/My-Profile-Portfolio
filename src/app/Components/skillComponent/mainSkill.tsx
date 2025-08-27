@@ -7,7 +7,7 @@ import { PixelCanvasDemo } from './SkillsDemo';
 const MainSkill = () => {
   return (
     <div id='skill' className="flex flex-col justify-center items-center bg-black">
-      <h1 className="text-7xl  font-satisfy text-center mb-12 p-2 ">Tech Skills</h1>
+      <h1 className="text-7xl  font-satisfy text-center mt-4 mb-12 p-2 ">Tech Skills</h1>
 
         {/* Grid for the 3 cards */}
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-16">
